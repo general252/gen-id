@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/olongfen/gen-id"
-	"github.com/olongfen/gen-id/utils"
+	"github.com/general252/gen-id"
+	"github.com/general252/gen-id/utils"
 	"time"
 )
 

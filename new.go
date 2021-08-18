@@ -1,6 +1,6 @@
 package genid
 
-import "github.com/olongfen/gen-id/generator"
+import "github.com/general252/gen-id/generator"
 
 // NewGeneratorData
 func NewGeneratorData(isFullAge *bool) (ret *generator.GeneratorData) {

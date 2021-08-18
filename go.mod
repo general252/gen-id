@@ -1,3 +1,3 @@
-module github.com/olongfen/gen-id
+module github.com/general252/gen-id
 
-go 1.13
+go 1.14
